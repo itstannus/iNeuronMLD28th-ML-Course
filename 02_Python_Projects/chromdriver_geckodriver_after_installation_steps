@@ -1,0 +1,6 @@
+sudo chmod +x chromedriver
+sudo cp chromedriver /usr/local/bin (not necessary)
+
+##geckodriver
+sudo chmod +x geckodriver
+sudo cp geckodriver /usr/local/bin
